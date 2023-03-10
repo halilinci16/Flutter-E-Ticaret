@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750818519227",
+    "project_id": "teknotrend01-43b9a",
+    "storage_bucket": "teknotrend01-43b9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750818519227:android:42c6f5b4607e48737b619e",
+        "android_client_info": {
+          "package_name": "com.example.tekno_trend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750818519227-ak6mggsfdrl7u7g77mjb7fcs82nenfre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1KS_r6P2jtoXijAlHBOv5R2BVrBrsQMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750818519227-ak6mggsfdrl7u7g77mjb7fcs82nenfre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
